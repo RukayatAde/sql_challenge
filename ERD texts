@@ -1,6 +1,6 @@
 departments
 -
-dept_no INTEGER
+dept_no INTEGER PK
 dept_Name VARCHAR
 
 dept_emp
@@ -15,7 +15,7 @@ emp_no INTEGER FK >- employees.emp_no
 
 employees
 -
-emp_no PK INTEGER
+emp_no INTEGER PK
 emp_title_id INTEGER
 birth_date DATE
 first_name VARCHAR
