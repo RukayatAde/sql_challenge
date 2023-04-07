@@ -1,4 +1,4 @@
 # sql_challenge
-stil working on my assignment please
-will update as soon as possible
-thank you.
+In this challenge
+I have performed data modeling, data engineering, and data analysis, respectively.
+On Pewlett Hackard (a fictional company) employees database.
